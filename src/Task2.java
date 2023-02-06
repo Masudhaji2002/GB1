@@ -1,3 +1,4 @@
+//Реализуйте алгоритм сортировки пузырьком для сортировки массива
 import java.util.Random;
 
 public class Task2 {
